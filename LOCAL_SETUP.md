@@ -196,7 +196,7 @@ Your live site: **https://mahalaxmi-jwellers.netlify.app**
 
 ### "Admin login not working"  
 - Password is case-sensitive: `Mahalaxmi@2024`
-- Make sure `.env.local` has `ADMIN_PASSWORD=Mahalaxmi@2024`
+- Make sure `.env.local` has `ADMIN_PASSWORD=`
 
 ### "Port already in use"
 ```bash
